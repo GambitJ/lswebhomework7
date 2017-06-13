@@ -4,9 +4,9 @@
 ---
 1. Feynman Writing Prompts - Write out explanations of the following concepts like you are explaining it to a 12 year old.  Doing this will help you quickly discover any holes in your understanding.  Ask your questions on Slack.
 		
-	* Array
-	* Object
-	* Method
+	* Array   - Is a big ice tray filled with holes that can be filled with different ice cubes (objects)
+	* Object - the ice cube that goes into the array/ice tray, each ice cube has its own types, shapes, sizes, etc (variables)
+	* Method - the Method is things that we can do with the Object like melt the ice cube. If you had an object of dog, you can give it the method of bark or run to let it run and bark. You can even put rules and parameters on those methods like you can only run for this distance or bark at this decibel!
 
 
 3. Fork and clone this repo.  When you need to commit use the following commands.
@@ -15,7 +15,7 @@
 	* git add --all
 	* git status
 	* git commit -m "your commit message"
-	* git push origin master
+	* git push origin master 
 
 
 4. Move into the `lswebhomework7` folder in your terminal and run `npm install` 
